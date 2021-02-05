@@ -1,5 +1,5 @@
 
-# PickMovie
+# GoMovie
 Randomly pack a movie based on genres you most like
 
 Probability is used to pick a movie from a list of movies based on weights provided for each genre
