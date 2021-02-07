@@ -10,4 +10,4 @@ I didn't know what movie to watch so I started coding
 Around 500K used from themoviedb.org
 
 #### API Key
-Please get a fresh and free api key from https://www.themoviedb.org/documentation/api 
+Get a fresh and free api key from https://www.themoviedb.org/documentation/api 
